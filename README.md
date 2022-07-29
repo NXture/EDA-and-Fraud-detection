@@ -16,6 +16,9 @@ columns available are –
 - Time step of the transaction
 - Whether the transaction was fraudulent or not
 
+![Data](./images/dataframe.png)
+![Info](./images/info.png)
+
 ## Data Description
 
 The data used for this analysis is a synthetically generated digital transactions dataset
