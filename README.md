@@ -1,3 +1,4 @@
+## Note: In Progress - Undersampling Imbalance dataset 
 ## Data Sources
 
 Due to the private nature of financial data, there is a lack of publicly available datasets
