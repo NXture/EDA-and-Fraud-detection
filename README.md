@@ -1,4 +1,5 @@
-## Note: In Progress - Undersampling Imbalance dataset 
+# Exploratory Data Analysis (EDA) and Fraud Detection Model
+> 06, August 2022
 ## Data Sources
 
 Due to the private nature of financial data, there is a lack of publicly available datasets
